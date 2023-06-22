@@ -1,0 +1,15 @@
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\bin\Debug\net6.0\Example_AMMANN_2.exe
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\bin\Debug\net6.0\Example_AMMANN_2.deps.json
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\bin\Debug\net6.0\Example_AMMANN_2.runtimeconfig.json
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\bin\Debug\net6.0\Example_AMMANN_2.dll
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\bin\Debug\net6.0\Example_AMMANN_2.pdb
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.csproj.AssemblyReference.cache
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.AssemblyInfoInputs.cache
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.AssemblyInfo.cs
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.csproj.CoreCompileInputs.cache
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.dll
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\refint\Example_AMMANN_2.dll
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.pdb
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\Example_AMMANN_2.genruntimeconfig.cache
+C:\Users\Рахила\Desktop\AMMANN\Example_AMMANN_2\obj\Debug\net6.0\ref\Example_AMMANN_2.dll
